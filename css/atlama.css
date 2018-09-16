@@ -1,0 +1,79 @@
+.h1
+{
+    font-size: 10px;
+    color: black;
+   
+}
+
+.one
+{
+    height:215px;
+    width:322px;
+    float:left;
+    margin:5px;
+
+    
+}
+.one:hover
+{
+    height:215px;
+    width:322px;
+    float:left;
+    margin:5px;
+    border-color: red;
+    
+}
+.iki
+{
+    height:215px;
+    width:322px;
+    margin:5px;
+    float:left;
+}
+
+.three
+{
+    height:215px;
+    width:322px;
+    margin:5px;
+    float:right;
+}
+
+.dort
+{
+    height:215px;
+    width:322px;
+    float:left;
+    margin:5px;
+}
+
+.five
+{
+    height:215px;
+    width:322px;
+    float:left;
+    margin:5px;
+}
+
+.sialt
+{
+    height:215px;
+    width:322px;
+    float:right;
+    margin:5px;
+}
+
+.iuc
+{
+    margin-top:10px;
+    margin-left:auto;
+    margin-right:auto;
+    width:1006px;
+    height:235px;
+}
+.hah
+{   float:left;
+    margin-right:30px;
+    margin-top: 75px;
+    margin-left:40px;
+}
